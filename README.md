@@ -1,6 +1,6 @@
 # Hi, I'm Rachit Agrawal 👋
 
-Computer Science Engineering student focused on **WordPress engineering and backend development**.  
+Computer Science Engineering student currently skilling up on **WordPress engineering and backend development**.  
 I like building practical systems, writing clean code, and contributing where it matters.
 
 ---
