@@ -1,47 +1,39 @@
 # Hi, I'm Rachit Agrawal 👋
 
-Computer Science Engineering student currently skilling up on **WordPress engineering and backend development**.  
-I like building practical systems, writing clean code, and contributing where it matters.
+Final-year CS student at DCRUST. I build web interfaces and ML systems —  
+mostly React on the frontend, Python for everything else.
+
+Also founded a 200-member Film & TV club on campus, because building communities
+is just another kind of engineering.
 
 ---
 
 ## Tech
-- **Languages:** PHP, JavaScript, Python, C/C++
-- **Web:** WordPress, REST APIs, HTML, CSS, Tailwind
-- **Database:** MySQL
-- **Tools:** Git, Linux, VS Code, Postman
+
+- **Languages:** Python, JavaScript, C/C++, Java
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **ML/AI:** OpenCV, real-time computer vision
+- **Tools:** Git, VS Code, Postman, Linux
 
 ---
 
-## Work
-- Built a **Python-based voice assistant** with real-time API integrations  
-- Developed a **live sign language detection system** (final-year project)  
-- Working on **full-stack web platforms** with authentication and dashboards
+## Projects
+
+- **Sign Language Detection** — real-time gesture recognition system using OpenCV & Python
+- **Voice Assistant** — Python-based assistant with live API integrations
+- **BMS IT Solutions website** — built the full frontend in React ([live](https://bmsitsolutionsindia.com))
 
 ---
 
 ## Currently
-- Deepening WordPress & backend fundamentals  
-- Preparing for product-based engineering roles  
-- Exploring open-source contributions
+
+- Actively looking for **frontend / ML roles** (open to work)
+- Building side projects and freelance work
+- Open to collaborations on React or Python projects
 
 ---
 
 ## Contact
-- **LinkedIn:** https://www.linkedin.com/in/rachit-agrawal-261062251  
+
+- **LinkedIn:** [rachit-agrawal](https://www.linkedin.com/in/rachit-agrawal-261062251)
 - **Email:** agrawalanush4@gmail.com
-
-<!--
-**RachitAgrawal04/RachitAgrawal04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
