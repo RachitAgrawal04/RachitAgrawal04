@@ -33,14 +33,21 @@ Also founded a 200-member Film & TV club — because building communities is jus
 
 ---
 
-### GitHub Stats
+### Most Used Languages
 
 <div align="center">
 
-![Rachit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RachitAgrawal04&show_icons=true&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=RachitAgrawal04&theme=github-dark-blue&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RachitAgrawal04&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
+
+---
+
+### Currently
+
+- 🔍 Open to **frontend & ML roles** — actively looking
+- 🛠 Building projects in React + Python
+- 📬 Reach out anytime: agrawalanush4@gmail.com
 
 ---
 
