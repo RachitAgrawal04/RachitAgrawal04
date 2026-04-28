@@ -45,7 +45,7 @@ Also founded a 200-member Film & TV club — because building communities is jus
 
 ### Currently
 
-- 🔍 Open to **frontend & ML roles** — actively looking
+- 🔍 Open to **AI Automation, frontend & ML roles** — actively looking
 - 🛠 Building projects in React + Python
 - 📬 Reach out anytime: agrawalanush4@gmail.com
 
