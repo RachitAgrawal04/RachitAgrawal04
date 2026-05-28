@@ -8,8 +8,8 @@
 
 ### About me
 
-React on the frontend, Python for everything else.  
-Also founded a 200-member Film & TV club — because building communities is just another kind of engineering.
+React on the frontend, Python for AI — building automation tools that actually ship.
+Also founded a 200-member Film & TV club, because community is its own kind of system design.
 
 ---
 
@@ -20,6 +20,9 @@ Also founded a 200-member Film & TV club — because building communities is jus
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -27,6 +30,8 @@ Also founded a 200-member Film & TV club — because building communities is jus
 
 ### Featured Projects
 
+🤖 **MCP Server** — Natural language → SQL querying over SQLite using Anthropic SDK + MCP protocol  
+🔁 **Lead Capture Automation** — n8n workflow for KP Coaching: form → CRM → follow-up, zero manual steps  
 🖐 **[Sign Language Detection](https://github.com/RachitAgrawal04)** — Real-time gesture recognition with OpenCV & Python  
 🌐 **[BMS IT Solutions](https://bmsitsolutionsindia.com)** — Full React frontend, live in production  
 🎙 **Voice Assistant** — Python-based assistant with real-time API integrations
@@ -45,9 +50,10 @@ Also founded a 200-member Film & TV club — because building communities is jus
 
 ### Currently
 
-- 🔍 Open to **AI Automation, frontend & ML roles** — actively looking
-- 🛠 Building projects in React + Python
-- 📬 Reach out anytime: agrawalanush4@gmail.com
+- 🔍 Open to **AI Automation & Web Dev roles** (fresher) — actively interviewing
+- 🛠 Building: MCP servers, RAG pipelines, multi-agent systems with LangGraph
+- 🚀 Co-founder @ CafeCanvas — AI chatbots, websites & automation for real clients
+- 📬 Reach out: agrawalanush4@gmail.com
 
 ---
 
