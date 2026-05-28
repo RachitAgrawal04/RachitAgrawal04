@@ -41,7 +41,7 @@ React on the frontend, Python for AI — building automation tools that actually
 
 | | Project | Description |
 |---|---|---|
-| ⚙️ | **[Automation Projects](https://github.com/RachitAgrawal04/YOUR-REPO-NAME)** | MCP servers, n8n workflows, RAG pipelines & more |
+| ⚙️ | **[Automation Projects](https://github.com/RachitAgrawal04/[YOUR-REPO-NAME](https://github.com/RachitAgrawal04/AI_Automations))** | MCP servers, n8n workflows, RAG pipelines & more |
 | 🖐 | **[Sign Language Detection](https://github.com/RachitAgrawal04)** | Real-time gesture recognition · OpenCV & Python |
 | 🌐 | **[BMS IT Solutions](https://bmsitsolutionsindia.com)** | Full React frontend · live in production |
 | 🎙 | **Voice Assistant** | Python-based assistant with real-time API integrations |
