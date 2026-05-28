@@ -36,6 +36,8 @@ React on the frontend, Python for AI — building automation tools that actually
 
 
 
+
+
 ### 🚀 Featured Projects
 
 | | Project | Description |
@@ -46,7 +48,7 @@ React on the frontend, Python for AI — building automation tools that actually
 | 🌐 | **[BMS IT Solutions](https://bmsitsolutionsindia.com)** | Full React frontend, live in production |
 | 🎙 | **Voice Assistant** | Python-based assistant with real-time API integrations |
 
----
+
 
 <!--
 ## Most Used Languages
@@ -65,6 +67,7 @@ The `raw.githubusercontent.com` proxy typically renders reliably.
 -->
 
 ## Currently
+
 
 - 🔍 Open to **AI Automation & Web Dev roles** (fresher) — actively interviewing
 - 🛠 Building: MCP servers, RAG pipelines, multi-agent systems with LangGraph
