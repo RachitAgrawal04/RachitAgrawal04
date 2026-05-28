@@ -6,6 +6,8 @@
 
 
 
+
+
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👋 About me
@@ -17,6 +19,7 @@ React on the frontend, Python for AI — building automation tools that actually
 - 📍 Based in India | Open to remote & NCR roles
 
 <br clear="right"/>
+
 
 
 
