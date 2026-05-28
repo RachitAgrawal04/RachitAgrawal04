@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -18,7 +18,7 @@ React on the frontend, Python for AI — building automation tools that actually
 
 <br clear="right"/>
 
----
+
 
 ### 🛠 Tech Stack
 
