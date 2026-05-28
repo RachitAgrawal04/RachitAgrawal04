@@ -37,19 +37,19 @@ React on the frontend, Python for AI — building tools that actually ship.
 
 ---
 
-### Most Used Languages
+<!--### Most Used Languages
 
 <div align="center">
 
-<!-- NOTE: GitHub blocks image loads for some external domains inside profile READMEs.
+     NOTE: GitHub blocks image loads for some external domains inside profile READMEs.
      This is a built-in platform restriction, so the card may appear blank.
-     The `raw.githubusercontent.com` proxy typically renders reliably. -->
+     The `raw.githubusercontent.com` proxy typically renders reliably. 
 
 ![Top Languages](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs/?username=RachitAgrawal04&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
----
+--- -->
 
 ### Currently
 
