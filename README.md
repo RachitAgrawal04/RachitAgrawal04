@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final-year+CS+%40+DCRUST;React+%7C+Python+%7C+ML;Building+AI+tools+that+ship)](https://git.io/typing-svg)
 
 </div>
-<br />
+<br clear="right"/>
 
 
 <img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -17,8 +17,6 @@ React on the frontend, Python for AI — building automation tools that actually
 - 📍 Based in India | Open to remote & NCR roles
 
 <br clear="right"/>
-
-
 
 
 ### 🛠 Tech Stack
