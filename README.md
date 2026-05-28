@@ -29,8 +29,7 @@ React on the frontend, Python for AI — building tools that actually ship.
 
 ### Featured Projects
 
-🤖 **MCP Server** — Natural language → SQL querying over SQLite using Anthropic SDK + MCP protocol  
-🔁 **Lead Capture Automation** — n8n workflow for KP Coaching: form → CRM → follow-up, zero manual steps  
+⚙️ **[Automation Projects](https://github.com/RachitAgrawal04/YOUR-REPO-NAME)** — AI automation tools: MCP servers, n8n workflows, RAG pipelines & more 
 🖐 **[Sign Language Detection](https://github.com/RachitAgrawal04)** — Real-time gesture recognition with OpenCV & Python  
 🌐 **[BMS IT Solutions](https://bmsitsolutionsindia.com)** — Full React frontend, live in production  
 🎙 **Voice Assistant** — Python-based assistant with real-time API integrations
