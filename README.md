@@ -16,7 +16,7 @@ React on the frontend, Python for AI — building automation tools that actually
 - 🎬 Founded a **200-member Film & TV club** on campus
 - 📍 Based in India | Open to remote & NCR roles
 
-<br clear="right"/>
+<br>
 
 
 ### 🛠 Tech Stack
@@ -34,7 +34,7 @@ React on the frontend, Python for AI — building automation tools that actually
 
 </div>
 
----
+
 
 ### 🚀 Featured Projects
 
