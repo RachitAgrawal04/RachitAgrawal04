@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final-year+CS+%40+DCRUST;React+%7C+Python+%7C+ML;Building+for+th[...]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final-year+CS+%40+DCRUST;React+%7C+Python+%7C+ML;AI+Automation+%7C+Web+Dev;Building+things+that+ship)](https://git.io/typing-svg)
 
 </div>
 
@@ -8,8 +8,7 @@
 
 ### About me
 
-React on the frontend, Python for AI — building automation tools that actually ship.
- Also founded a 200-member Film & TV club, because community is its own kind of system design.
+React on the frontend, Python for AI — building tools that actually ship.
 
 ---
 
@@ -57,7 +56,7 @@ React on the frontend, Python for AI — building automation tools that actually
 - 🔍 Open to **AI Automation & Web Dev roles** (fresher) — actively interviewing
 - 🛠 Building: MCP servers, RAG pipelines, multi-agent systems with LangGraph
 - 🚀 Co-founder @ CafeCanvas — AI chatbots, websites & automation for real clients
-- 📬 Reach out: agrawalanush4@gmail.com
+- 📬 Reach out: rachit.agrawal.cs@gmail.com
 
 ---
 
@@ -65,3 +64,4 @@ React on the frontend, Python for AI — building automation tools that actually
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-agrawal-261062251)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agrawalanush4@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/rachitagr_/)
