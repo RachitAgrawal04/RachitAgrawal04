@@ -9,7 +9,7 @@
 ### About me
 
 React on the frontend, Python for AI — building automation tools that actually ship.
-Also founded a 200-member Film & TV club, because community is its own kind of system design.
+ Also founded a 200-member Film & TV club, because community is its own kind of system design.
 
 ---
 
