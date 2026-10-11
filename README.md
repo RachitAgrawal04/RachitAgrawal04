@@ -2,6 +2,8 @@
 
 <img src="assets/banner.svg" alt="Rachit Agrawal — Full-Stack Developer · AI Automation" width="100%">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=44&lines=Building+web+apps+that+ship;AI+automation+with+Python%2C+MCP+%26+n8n;React+%C2%B7+Node.js+%C2%B7+Python;Open+to+remote+%26+NCR+roles" alt="Building web apps that ship · AI automation with Python, MCP and n8n · React, Node.js, Python · Open to remote and NCR roles">
+
 <p>
   <a href="mailto:rachit.agrawal.cs@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/rachit-agrawal-261062251"><b>LinkedIn</b></a> &nbsp;·&nbsp;
