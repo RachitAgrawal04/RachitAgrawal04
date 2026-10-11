@@ -8,7 +8,7 @@
 
 ### 👋 About me
 
-Software developer (B.Tech CS, Data Science specialization — DCRUST, 2026) building full-stack web applications and AI automation. React and Node.js on the web side, Python for AI workflows.
+Software developer (B.Tech CSE, Data Science specialization — DCRUST, 2026) building full-stack web applications and AI automation. React and Node.js on the web side, Python for AI workflows.
 
 - 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflow automation & web development for real clients
 - 💻 Web Developer intern @ **BMS IT Solutions** — built the React frontend, live in production
