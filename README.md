@@ -11,7 +11,7 @@
 Software developer (B.Tech CSE, Data Science specialization — DCRUST, 2026) building full-stack web applications and AI automation. React and Node.js on the web side, Python for AI workflows.
 
 - 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflow automation & web development for real clients
-- 💻 Web Developer intern @ **BMS IT Solutions** — built the React frontend, live in production
+- 💻 Web Developer @ **BMS IT Solutions**
 - 🎬 Founded a **200-member Film & TV club**
 - ✍️ Outside of code, I keep a small personal hobby blog (non-technical) — **[rachit-blogs.vercel.app](https://rachit-blogs.vercel.app/)**
 - 📍 India | Open to software development, full-stack & AI automation roles — remote or NCR
