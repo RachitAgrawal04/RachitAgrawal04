@@ -6,18 +6,15 @@
 
 ---
 
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
 ### 👋 About me
 
-React on the frontend, Python for AI — building automation tools that actually ship.
+Software developer (B.Tech CS, Data Science specialization — DCRUST, 2026) building full-stack web applications and AI automation. React and Node.js on the web side, Python for AI workflows.
 
-- 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflows & web for real clients
-- 🎬 Founded a **200-member Film & TV club** on campus
+- 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflow automation & web development for real clients
+- 💻 Web Developer intern @ **BMS IT Solutions** — built the React frontend, live in production
+- 🎬 Founded a **200-member Film & TV club**
 - ✍️ Outside of code, I keep a small personal hobby blog (non-technical) — **[rachit-blogs.vercel.app](https://rachit-blogs.vercel.app/)**
-- 📍 Based in India | Open to remote & NCR roles
-
-<br clear="right"/>
+- 📍 India | Open to software development, full-stack & AI automation roles — remote or NCR
 
 ---
 
