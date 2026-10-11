@@ -1,64 +1,45 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Final-year+CS+%40+DCRUST;React+%7C+Python+%7C+ML;Building+AI+tools+that+ship)](https://git.io/typing-svg)
+<img src="assets/banner.svg" alt="Rachit Agrawal — Full-Stack Developer · AI Automation" width="100%">
+
+<p>
+  <a href="mailto:rachit.agrawal.cs@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/rachit-agrawal-261062251"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <b>Open to Full-Stack, Software Developer &amp; AI Automation roles</b> &nbsp;·&nbsp; Remote or NCR
+</p>
 
 </div>
 
----
+## About
 
-### 👋 About me
+I build web applications and AI-powered automation. B.Tech in CSE (Data Science specialization) from DCRUST, 2026, with hands-on experience shipping React front ends for production sites and building AI tooling with Python, the Anthropic SDK and MCP.
 
-Software developer (B.Tech CSE, Data Science specialization — DCRUST, 2026) building full-stack web applications and AI automation. React and Node.js on the web side, Python for AI workflows.
+## Projects
 
-- 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflow automation & web development for real clients
-- 💻 Web Developer @ **BMS IT Solutions**
-- 🎬 Founded a **200-member Film & TV club**
-- ✍️ Outside of code, I keep a small personal hobby blog (non-technical) — **[rachit-blogs.vercel.app](https://rachit-blogs.vercel.app/)**
-- 📍 India | Open to software development, full-stack & AI automation roles — remote or NCR
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,python,js,tailwind,opencv,mysql,git,sqlite&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B8BBE?style=flat-square&logoColor=white)
-
-</div>
-
----
-
-### 🚀 Featured Projects
-
-| | Project | Description |
+| Project | What it is | Stack |
 |---|---|---|
-| ⚙️ | **[Automation Projects](https://github.com/RachitAgrawal04/[YOUR-REPO-NAME](https://github.com/RachitAgrawal04/AI_Automations))** | MCP servers, n8n workflows, RAG pipelines & more |
-| 🖐 | **[Sign Language Detection](https://github.com/RachitAgrawal04)** | Real-time gesture recognition · OpenCV & Python |
-| 🌐 | **[BMS IT Solutions](https://bmsitsolutionsindia.com)** | Full React frontend · live in production |
-| 🎙 | **Voice Assistant** | Python-based assistant with real-time API integrations |
+| **[CafeCanvas](https://github.com/CafeCanvas/CafeCanvas)** · [live](https://cafe-canvas.vercel.app) | Agency website with industry landing pages, case studies and a contact flow. Co-founded and built for small-business clients. | React 19, React Router, Vite, Tailwind CSS, Vercel |
+| **[BMS IT Solutions](https://bmsitsolutionsindia.com)** | Production website for an ERP software company serving retail, distribution and manufacturing. I built the React front end. | React |
+| **[Toothless](https://github.com/RachitAgrawal04/Toothless-personal_voice_assistant)** | Windows desktop voice assistant: speech recognition, spoken replies and an animated web UI. | Python, Eel, pyttsx3, HTML/CSS/JS |
 
----
+## Experience
 
-### 📌 Currently
+**Co-founder, CafeCanvas** — Web development, AI chatbots and workflow automation for small businesses.
+
+**Web Developer, BMS IT Solutions** — Built and shipped the company's React website.
+
+## Skills
 
 | | |
 |---|---|
-| 🔍 | Open to **AI Automation & Web Dev** fresher roles — actively interviewing |
-| 🛠 | Building MCP servers, RAG pipelines, LangGraph agents |
-| 🚀 | Co-founder @ CafeCanvas |
-| 📬 | rachit.agrawal.cs@gmail.com |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
+| **Backend &amp; Data** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-2C3E50?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
+| **AI &amp; Automation** | ![Anthropic SDK](https://img.shields.io/badge/Anthropic_SDK-191919?style=flat-square&logo=anthropic&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
----
+## Contact
 
-### 🔗 Contact
+**Email** · [rachit.agrawal.cs@gmail.com](mailto:rachit.agrawal.cs@gmail.com) &nbsp;&nbsp; **LinkedIn** · [rachit-agrawal-261062251](https://www.linkedin.com/in/rachit-agrawal-261062251)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachit-agrawal-261062251)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachit.agrawal.cs@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rachitagr_/)
+<sub>Beyond code: I founded a 200-member Film &amp; TV club on campus, and I keep a small non-technical hobby blog at <a href="https://rachit-blogs.vercel.app/">rachit-blogs.vercel.app</a>.</sub>
