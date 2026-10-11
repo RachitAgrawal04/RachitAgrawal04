@@ -14,7 +14,7 @@ React on the frontend, Python for AI — building automation tools that actually
 
 - 🤖 Co-founder @ **CafeCanvas** — AI chatbots, workflows & web for real clients
 - 🎬 Founded a **200-member Film & TV club** on campus
-- ✍️ I write on my blog — **[rachitblogs.com](https://www.rachitblogs.com)**
+- ✍️ Outside of code, I keep a small personal hobby blog (non-technical) — **[rachit-blogs.vercel.app](https://rachit-blogs.vercel.app/)**
 - 📍 Based in India | Open to remote & NCR roles
 
 <br clear="right"/>
